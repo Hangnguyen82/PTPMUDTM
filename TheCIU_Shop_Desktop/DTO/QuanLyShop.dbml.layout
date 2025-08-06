@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.25, 24.5" name="QuanLyShop">
+  <DataContextMoniker Name="/QuanLyShopDataContext" />
+  <nestedChildShapes>
+    <classShape Id="90f4f6b4-63b4-4ec7-a1ac-9bf8c32628d5" absoluteBounds="6.5, 16.125, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="44ded464-86ba-460b-9edf-ba60fdea334b" absoluteBounds="6.515, 16.585, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d5060816-c448-41cc-b7f8-42061792f4f5" absoluteBounds="12, 4.125, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Cart" />
+      <nestedChildShapes>
+        <elementListCompartment Id="47709dae-e37a-4129-b4c2-eeecab93cf1a" absoluteBounds="12.015, 4.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="91a20cd1-e504-4410-be9a-a6514d4dcf24" absoluteBounds="0.75, 7.375, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c47d6837-f527-4894-86ec-6af31c931280" absoluteBounds="0.765, 7.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="734a29cc-f769-4f7d-8aae-c910dff801a3" absoluteBounds="3.5, 10.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Collection" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d9c2a946-84c7-4613-b657-19caa0231264" absoluteBounds="3.515, 10.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7595e01a-aec7-4afe-8776-d39cd4a1234e" absoluteBounds="6.25, 8.25, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/QuanLyShopDataContext/CollectionProduct" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d817cd5d-4503-41da-8b2f-edcb381804bb" absoluteBounds="6.265, 8.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="479a4acf-a387-4293-8cd1-11d4004fa8dd" absoluteBounds="6.5, 3.375, 2, 1.193992513020834">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Color" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5201ab14-c272-4e96-a700-0048b286f76b" absoluteBounds="6.515, 3.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5de714ef-337a-4ef7-9c98-4c9127868b91" absoluteBounds="6.25, 10.375, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/QuanLyShopDataContext/FavoriteProduct" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7141a44-7590-4d04-921f-4420885ef3c1" absoluteBounds="6.265, 10.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d7d961e9-59ed-48d4-b518-3712c271ede5" absoluteBounds="9.25, 7.125, 2, 1.7708968098958335">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Feedback" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c0730d5-b6d5-4bb6-829f-3424068f20ed" absoluteBounds="9.265, 7.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3c229866-35bc-4e60-a4d1-d52efa91abc4" absoluteBounds="6.5, 20, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/QuanLyShopDataContext/GroupUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="49de4b8f-8433-4cbb-8b09-21fbab3dadc2" absoluteBounds="6.515, 20.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f3d24508-c12f-4545-9a1d-33a4184f4c3e" absoluteBounds="6.25, 6.375, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Image" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b58e1a59-1627-4fc2-8322-e4e08324dfe9" absoluteBounds="6.265, 6.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="06cd4958-edba-42ac-a25f-a85e6868924b" absoluteBounds="12, 1.125, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/QuanLyShopDataContext/OrderDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="79c6e7e5-3e7f-410f-8d30-589c29eef578" absoluteBounds="12.015, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c7ca5911-afb4-4f39-b8b6-2d56c7107ab1" absoluteBounds="9.25, 14.875, 2, 2.3478011067708326">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="86cc052f-792d-4601-a72b-286d287b18dd" absoluteBounds="9.265, 15.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ef31edaa-dfcb-4868-8d32-cadba4354419" absoluteBounds="9.25, 12.375, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/QuanLyShopDataContext/product_voucher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="995c7dbe-8cc3-41d4-85e9-7000ae650195" absoluteBounds="9.265, 12.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="81127020-3d38-4514-9c03-c9a99a912386" absoluteBounds="3.5, 6.875, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d04cedfc-5bda-4e56-a90e-dcf09855bc25" absoluteBounds="3.515, 7.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="65fa9486-79fb-4dbb-bdf6-f9839414e222" absoluteBounds="9.25, 4.125, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/QuanLyShopDataContext/ProductVariant" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bef4f832-9c1c-4170-a388-ad0546fc9ac1" absoluteBounds="9.265, 4.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d06ea335-9cc6-45da-83ba-5edb2dfb56ab" absoluteBounds="9.25, 22, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/QuanLyShopDataContext/QLPhanQuyen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="55afa76e-d277-41e9-a96d-555693252c76" absoluteBounds="9.265, 22.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b1d24615-a862-4ee1-9fd0-564dadc19ad6" absoluteBounds="6.5, 23, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Screen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa06e3d9-9f50-4a71-9386-34930542ea04" absoluteBounds="6.515, 23.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa6acc4d-7294-45bc-b164-344952ac39ba" absoluteBounds="6.5, 1.375, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Size" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f72610e0-b573-46a7-bf95-a74e30a6ea5e" absoluteBounds="6.515, 1.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f9cc5c2-9b65-4dac-ba37-01cb4e5614bc" absoluteBounds="9.25, 19, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/QuanLyShopDataContext/User_GroupUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="afddf1b9-2716-4bf1-a06a-1407bb8d08a8" absoluteBounds="9.265, 19.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dc080ca2-a1ef-433f-b011-b0379cab9f34" absoluteBounds="6.5, 13.125, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/QuanLyShopDataContext/Voucher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0bf679e6-0392-44d6-ba21-afe0640d0a55" absoluteBounds="6.515, 13.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.5 : 18.1114005533854); (13 : 18.1114005533854); (13 : 5.89589680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Account/Account_Cart" />
+      <nodes>
+        <classShapeMoniker Id="90f4f6b4-63b4-4ec7-a1ac-9bf8c32628d5" />
+        <classShapeMoniker Id="d5060816-c448-41cc-b7f8-42061792f4f5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 10.25); (5.875 : 9.875); (5.875 : 10.0112939453125); (6.00357443490112 : 9.88271951041138 : JumpStart); (6.12142556509888 : 9.76486838021362 : JumpEnd); (6.25 : 9.6362939453125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Collection/Collection_CollectionProduct" />
+      <nodes>
+        <classShapeMoniker Id="734a29cc-f769-4f7d-8aae-c910dff801a3" />
+        <classShapeMoniker Id="7595e01a-aec7-4afe-8776-d39cd4a1234e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.46769230769231 : 16.125); (8.875 : 15.7176923076923); (8.875 : 8.01044840494792); (9.25 : 8.01044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Account/Account_Feedback" />
+      <nodes>
+        <classShapeMoniker Id="90f4f6b4-63b4-4ec7-a1ac-9bf8c32628d5" />
+        <classShapeMoniker Id="d7d961e9-59ed-48d4-b518-3712c271ede5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 14.875); (11.625 : 14.5); (11.625 : 2.01044840494792); (12 : 2.01044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Order/Order_OrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="c7ca5911-afb4-4f39-b8b6-2d56c7107ab1" />
+        <classShapeMoniker Id="06cd4958-edba-42ac-a25f-a85e6868924b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 16.7051530533854); (9.25 : 16.7051530533854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Account/Account_Order" />
+      <nodes>
+        <classShapeMoniker Id="90f4f6b4-63b4-4ec7-a1ac-9bf8c32628d5" />
+        <classShapeMoniker Id="c7ca5911-afb4-4f39-b8b6-2d56c7107ab1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 16.2203836153846); (9.0625 : 15.6578836153846); (9.0625 : 13.0681469726562); (9.25 : 13.0681469726562)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Account/Account_product_voucher" />
+      <nodes>
+        <classShapeMoniker Id="90f4f6b4-63b4-4ec7-a1ac-9bf8c32628d5" />
+        <classShapeMoniker Id="ef31edaa-dfcb-4868-8d32-cadba4354419" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 8.73640055338542); (6.25 : 8.73640055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Product/Product_CollectionProduct" />
+      <nodes>
+        <classShapeMoniker Id="81127020-3d38-4514-9c03-c9a99a912386" />
+        <classShapeMoniker Id="7595e01a-aec7-4afe-8776-d39cd4a1234e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 9.16126164523237); (6.0625 : 9.72376164523237); (6.0625 : 11.0681469726562); (6.25 : 11.0681469726562)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Product/Product_FavoriteProduct" />
+      <nodes>
+        <classShapeMoniker Id="81127020-3d38-4514-9c03-c9a99a912386" />
+        <classShapeMoniker Id="5de714ef-337a-4ef7-9c98-4c9127868b91" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.75847045898438); (9.25 : 7.75847045898438)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Product/Product_Feedback" />
+      <nodes>
+        <classShapeMoniker Id="81127020-3d38-4514-9c03-c9a99a912386" />
+        <classShapeMoniker Id="d7d961e9-59ed-48d4-b518-3712c271ede5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.22199625651042); (6.25 : 7.22199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Product/Product_Image" />
+      <nodes>
+        <classShapeMoniker Id="81127020-3d38-4514-9c03-c9a99a912386" />
+        <classShapeMoniker Id="f3d24508-c12f-4545-9a1d-33a4184f4c3e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.97199625651042); (3.5 : 7.97199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Category/Category_Product" />
+      <nodes>
+        <classShapeMoniker Id="91a20cd1-e504-4410-be9a-a6514d4dcf24" />
+        <classShapeMoniker Id="81127020-3d38-4514-9c03-c9a99a912386" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 5.01044840494792); (11.5416666666667 : 5.01044840494792 : JumpStart); (11.7083333333333 : 5.01044840494792 : JumpEnd); (12 : 5.01044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/ProductVariant/ProductVariant_Cart" />
+      <nodes>
+        <classShapeMoniker Id="65fa9486-79fb-4dbb-bdf6-f9839414e222" />
+        <classShapeMoniker Id="d5060816-c448-41cc-b7f8-42061792f4f5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.25 : 4.125); (10.25 : 2.48442510742187); (11.5416666666667 : 2.48442510742187 : JumpStart); (11.7083333333333 : 2.48442510742187 : JumpEnd); (12 : 2.48442510742187)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/ProductVariant/ProductVariant_OrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="65fa9486-79fb-4dbb-bdf6-f9839414e222" />
+        <classShapeMoniker Id="06cd4958-edba-42ac-a25f-a85e6868924b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 4.34699625651042); (9.25 : 4.34699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Color/Color_ProductVariant" />
+      <nodes>
+        <classShapeMoniker Id="479a4acf-a387-4293-8cd1-11d4004fa8dd" />
+        <classShapeMoniker Id="65fa9486-79fb-4dbb-bdf6-f9839414e222" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 6.875); (4.5 : 5.26369466145833); (9.25 : 5.26369466145833)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Product/Product_ProductVariant" />
+      <nodes>
+        <classShapeMoniker Id="81127020-3d38-4514-9c03-c9a99a912386" />
+        <classShapeMoniker Id="65fa9486-79fb-4dbb-bdf6-f9839414e222" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 21.3862939453125); (8.875 : 21.7612939453125); (8.875 : 21.625); (9.25 : 22)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyShopDataContext/GroupUser/GroupUser_QLPhanQuyen" />
+      <nodes>
+        <classShapeMoniker Id="3c229866-35bc-4e60-a4d1-d52efa91abc4" />
+        <classShapeMoniker Id="d06ea335-9cc6-45da-83ba-5edb2dfb56ab" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 23.1931469726563); (9.25 : 23.1931469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Screen/Screen_QLPhanQuyen" />
+      <nodes>
+        <classShapeMoniker Id="b1d24615-a862-4ee1-9fd0-564dadc19ad6" />
+        <classShapeMoniker Id="d06ea335-9cc6-45da-83ba-5edb2dfb56ab" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 1.92971255371094); (9.7187475 : 1.92971255371094); (9.7187475 : 4.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Size/Size_ProductVariant" />
+      <nodes>
+        <classShapeMoniker Id="fa6acc4d-7294-45bc-b164-344952ac39ba" />
+        <classShapeMoniker Id="65fa9486-79fb-4dbb-bdf6-f9839414e222" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 19.0481659421074); (8.875 : 19.4231659421074); (8.875 : 18.625); (9.25 : 19)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Account/Account_User_GroupUser" />
+      <nodes>
+        <classShapeMoniker Id="90f4f6b4-63b4-4ec7-a1ac-9bf8c32628d5" />
+        <classShapeMoniker Id="0f9cc5c2-9b65-4dac-ba37-01cb4e5614bc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 20.1931469726563); (9.25 : 20.1931469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/GroupUser/GroupUser_User_GroupUser" />
+      <nodes>
+        <classShapeMoniker Id="3c229866-35bc-4e60-a4d1-d52efa91abc4" />
+        <classShapeMoniker Id="0f9cc5c2-9b65-4dac-ba37-01cb4e5614bc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 15.1739005533854); (8.79166666666667 : 15.1739005533854 : JumpStart); (8.95833333333333 : 15.1739005533854 : JumpEnd); (8.97916666666667 : 15.1739005533854 : JumpStart); (9.14583333333333 : 15.1739005533854 : JumpEnd); (9.25 : 15.1739005533854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Voucher/Voucher_Order" />
+      <nodes>
+        <classShapeMoniker Id="dc080ca2-a1ef-433f-b011-b0379cab9f34" />
+        <classShapeMoniker Id="c7ca5911-afb4-4f39-b8b6-2d56c7107ab1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 13.4431469726562); (8.79166666666667 : 13.4431469726562 : JumpStart); (8.95833333333333 : 13.4431469726562 : JumpEnd); (8.97916666666667 : 13.4431469726562 : JumpStart); (9.14583333333333 : 13.4431469726562 : JumpEnd); (9.25 : 13.4431469726562)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyShopDataContext/Voucher/Voucher_product_voucher" />
+      <nodes>
+        <classShapeMoniker Id="dc080ca2-a1ef-433f-b011-b0379cab9f34" />
+        <classShapeMoniker Id="ef31edaa-dfcb-4868-8d32-cadba4354419" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

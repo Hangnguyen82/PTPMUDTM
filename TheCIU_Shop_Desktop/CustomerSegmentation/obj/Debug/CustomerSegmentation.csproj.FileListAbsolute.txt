@@ -1,0 +1,2 @@
+D:\TEAMWORKING\TheCIU_Shop_Desktop\CustomerSegmentation\obj\Debug\CustomerSegmentation.csproj.AssemblyReference.cache
+D:\TEAMWORKING\TheCIU_Shop_Desktop\CustomerSegmentation\obj\Debug\CustomerSegmentation.csproj.CoreCompileInputs.cache
